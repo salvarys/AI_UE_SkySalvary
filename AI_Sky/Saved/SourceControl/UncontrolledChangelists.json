@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/salvarys/Documents/GitHub/AI_UE_SkySalvary/AI_Sky/Content/Mesh/Rifle/SK_Rifle_Skeleton.uasset",
+				"C:/Users/salvarys/Documents/GitHub/AI_UE_SkySalvary/AI_Sky/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/salvarys/Documents/GitHub/AI_UE_SkySalvary/AI_Sky/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/salvarys/Documents/GitHub/AI_UE_SkySalvary/AI_Sky/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/U0/YDUQBXNBQL12WTR6K2959H.uasset",
+				"C:/Users/salvarys/Documents/GitHub/AI_UE_SkySalvary/AI_Sky/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/20/NPFR17QH6LUU2LCT3Q416T.uasset",
+				"C:/Users/salvarys/Documents/GitHub/AI_UE_SkySalvary/AI_Sky/Content/ThirdPerson/Blueprints/BP_EnemyCharacter.uasset",
+				"C:/Users/salvarys/Documents/GitHub/AI_UE_SkySalvary/AI_Sky/Content/Effects/Particles/Weapons/NS_WeaponFire_Tracer.uasset",
+				"C:/Users/salvarys/Documents/GitHub/AI_UE_SkySalvary/AI_Sky/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/WA/LH8KM2FK84M9FZHIQFITU6.uasset"
+			]
+		}
+	]
+}
