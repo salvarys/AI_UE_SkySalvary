@@ -1,3 +1,18 @@
-2026/04/11-14:46:32.381 350c Reusing MANIFEST C:\Users\skysa\OneDrive\Documents\GitHub\AI_UE_SkySalvary\AI_Sky\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/11-14:46:32.385 350c Recovering log #3
-2026/04/11-14:46:32.387 350c Reusing old log C:\Users\skysa\OneDrive\Documents\GitHub\AI_UE_SkySalvary\AI_Sky\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/04/11-16:43:40.399 56e8 Reusing MANIFEST C:\Users\skysa\OneDrive\Documents\GitHub\AI_UE_SkySalvary\AI_Sky\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/11-16:43:40.403 56e8 Recovering log #3
+2026/04/11-16:43:40.406 56e8 Reusing old log C:\Users\skysa\OneDrive\Documents\GitHub\AI_UE_SkySalvary\AI_Sky\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/04/11-16:57:41.636 6670 Level-0 table #5: started
+2026/04/11-16:57:41.640 6670 Level-0 table #5: 64987 bytes OK
+2026/04/11-16:57:41.642 6670 Delete type=0 #3
+2026/04/11-16:59:00.098 6670 Level-0 table #7: started
+2026/04/11-16:59:00.104 6670 Level-0 table #7: 63654 bytes OK
+2026/04/11-16:59:00.112 6670 Delete type=0 #4
+2026/04/11-17:02:12.010 6670 Level-0 table #9: started
+2026/04/11-17:02:12.022 6670 Level-0 table #9: 63198 bytes OK
+2026/04/11-17:02:12.025 6670 Delete type=0 #6
+2026/04/11-17:25:17.825 6670 Level-0 table #11: started
+2026/04/11-17:25:18.033 6670 Level-0 table #11: 67614 bytes OK
+2026/04/11-17:25:18.172 6670 Delete type=0 #8
+2026/04/11-17:25:46.523 6670 Level-0 table #13: started
+2026/04/11-17:25:46.529 6670 Level-0 table #13: 67063 bytes OK
+2026/04/11-17:25:46.530 6670 Delete type=0 #10

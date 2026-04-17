@@ -1,18 +1,24 @@
-2026/04/11-16:43:40.399 56e8 Reusing MANIFEST C:\Users\skysa\OneDrive\Documents\GitHub\AI_UE_SkySalvary\AI_Sky\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/11-16:43:40.403 56e8 Recovering log #3
-2026/04/11-16:43:40.406 56e8 Reusing old log C:\Users\skysa\OneDrive\Documents\GitHub\AI_UE_SkySalvary\AI_Sky\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
-2026/04/11-16:57:41.636 6670 Level-0 table #5: started
-2026/04/11-16:57:41.640 6670 Level-0 table #5: 64987 bytes OK
-2026/04/11-16:57:41.642 6670 Delete type=0 #3
-2026/04/11-16:59:00.098 6670 Level-0 table #7: started
-2026/04/11-16:59:00.104 6670 Level-0 table #7: 63654 bytes OK
-2026/04/11-16:59:00.112 6670 Delete type=0 #4
-2026/04/11-17:02:12.010 6670 Level-0 table #9: started
-2026/04/11-17:02:12.022 6670 Level-0 table #9: 63198 bytes OK
-2026/04/11-17:02:12.025 6670 Delete type=0 #6
-2026/04/11-17:25:17.825 6670 Level-0 table #11: started
-2026/04/11-17:25:18.033 6670 Level-0 table #11: 67614 bytes OK
-2026/04/11-17:25:18.172 6670 Delete type=0 #8
-2026/04/11-17:25:46.523 6670 Level-0 table #13: started
-2026/04/11-17:25:46.529 6670 Level-0 table #13: 67063 bytes OK
-2026/04/11-17:25:46.530 6670 Delete type=0 #10
+2026/04/17-10:24:13.318 1c1c Reusing MANIFEST C:\Users\skysa\OneDrive\Documents\GitHub\AI_UE_SkySalvary\AI_Sky\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/17-10:24:13.324 1c1c Recovering log #12
+2026/04/17-10:24:13.331 1c1c Reusing old log C:\Users\skysa\OneDrive\Documents\GitHub\AI_UE_SkySalvary\AI_Sky\Saved\webcache_6613\Default\Local Storage\leveldb/000012.log 
+2026/04/17-10:35:11.869 1f1c Level-0 table #16: started
+2026/04/17-10:35:11.874 1f1c Level-0 table #16: 77226 bytes OK
+2026/04/17-10:35:11.876 1f1c Delete type=0 #12
+2026/04/17-10:35:11.877 1f1c Compacting 4@0 + 1@1 files
+2026/04/17-10:35:11.883 1f1c Generated table #17@0: 8 keys, 20402 bytes
+2026/04/17-10:35:11.883 1f1c Compacted 4@0 + 1@1 files => 20402 bytes
+2026/04/17-10:35:11.884 1f1c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/17-10:35:11.885 1f1c Delete type=2 #7
+2026/04/17-10:35:11.885 1f1c Delete type=2 #9
+2026/04/17-10:35:11.885 1f1c Delete type=2 #11
+2026/04/17-10:35:11.885 1f1c Delete type=2 #13
+2026/04/17-10:35:11.885 1f1c Delete type=2 #16
+2026/04/17-10:47:43.270 1f1c Level-0 table #19: started
+2026/04/17-10:47:43.305 1f1c Level-0 table #19: 67802 bytes OK
+2026/04/17-10:47:43.308 1f1c Delete type=0 #15
+2026/04/17-10:48:10.516 1f1c Level-0 table #21: started
+2026/04/17-10:48:10.523 1f1c Level-0 table #21: 73390 bytes OK
+2026/04/17-10:48:10.525 1f1c Delete type=0 #18
+2026/04/17-10:53:32.720 1f1c Level-0 table #23: started
+2026/04/17-10:53:32.757 1f1c Level-0 table #23: 75598 bytes OK
+2026/04/17-10:53:32.760 1f1c Delete type=0 #20
