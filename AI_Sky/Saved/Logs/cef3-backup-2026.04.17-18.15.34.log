@@ -1,0 +1,34 @@
+[20640:14272:0411/164340.249:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[20640:11520:0411/164340.316:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[20640:14272:0411/164340.351:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[10900:25700:0411/164344.092:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-47B99A7797B76570657BBC4834880B21 will be ignored
+[22512:26024:0411/164345.549:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-37F39EC78E0786F0374B60D59F4B5A5F will be ignored
+[13936:13560:0411/164345.633:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[13936:3704:0411/165715.435:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[13936:3704:0411/165715.512:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
+
+[13936:24348:0411/165716.242:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[13936:20244:0411/165716.243:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[13936:27424:0411/165716.250:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[13936:5860:0411/165716.254:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[20640:14272:0411/170147.625:ERROR:browser_info_manager.cc(781)] Timeout of new browser info response for frame C-5FEE0A975025608FEC8605AE33D4A160 (has_rfh=1)
+[24856:2744:0411/170147.640:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 9-8DD07B6DD33BDB3195667D3F80B010A1 will be ignored
+[20640:14272:0411/170206.876:ERROR:browser_info_manager.cc(781)] Timeout of new browser info response for frame E-F176AE0032CFF6A57566724931C9925E (has_rfh=1)
+[16332:24228:0411/170206.894:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame D-754A910F26BA4B903B43AC26F8B346A0 will be ignored
+[26220:10852:0411/170227.732:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame F-A993B9A78D8B144F20862AE3F55E2BFF will be ignored
+[20640:14272:0411/172855.573:ERROR:menu_runner_views_aura.cc(24)] Window handle is required for default OSR context menu.
+[20640:14272:0411/172855.574:ERROR:menu_manager.cc(198)] Default context menu implementation is not available; canceling the menu
+[20640:14272:0411/172924.399:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
